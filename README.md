@@ -15,7 +15,7 @@
 ---
 
 #### 📊 Stats (GitHub):
-📦 [Ver no pub.dev](https://pub.dev/packages/app_badge_plus)
+![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Deviruy&show_icons=true&theme=dracula&cache_seconds=1800)
 
 ---
 
